@@ -6,8 +6,8 @@ An end-to-end Machine Learning project that predicts residential property prices
 
 ## 🚀 Live Demo
 
-👉 **Streamlit App:**
-*(Apna Streamlit URL yaha paste kar dena)*
+
+🔗 **Streamlit App:** https://gurgaon-property-price-prediction-r7vyjomaqckehqvk38uocx.streamlit.app/
 
 ---
 
