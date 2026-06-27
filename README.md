@@ -141,6 +141,4 @@ streamlit run home.py
 
 ---
 
-## 👨‍💻 Author
 
-Lovey Sandhu
